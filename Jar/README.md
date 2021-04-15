@@ -53,6 +53,8 @@ android {
         }
         versionCode 1
         versionName '1.11.181450'
+        //默认生成版本
+        defaultPublishConfig 'release'
     }
 
     lintOptions {
